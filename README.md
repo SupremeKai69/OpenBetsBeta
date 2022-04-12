@@ -1,11 +1,11 @@
 <h1 align="center"><strong>
  
- OpenBetsBeta
+ Krew Coins
  
  </strong></h1>
 
  <h5 align="center">
  
- Beta version of OpenBets. A P2P Prediction Market for anyone, anywhere.
+ Made in Hawaii, by the boys, for the boys.
  
 </h5>
