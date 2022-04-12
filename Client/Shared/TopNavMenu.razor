@@ -1,0 +1,52 @@
+﻿<nav class="navbar navbar-expand-lg navbar-light bg-light rounded-3">
+  <div class="container-fluid">
+
+    <!--Nav collapse Toggle-->
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <!--Title-->
+    <a class="navbar-brand" href="#">OpenBets</a>
+              
+    <!--Wallet-->
+    <button class="btn-primary rounded-pill">
+       <a class="nav-link active text-white" aria-current="page" href="/ethwallet">Wallet</a>
+    </button>
+
+
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+          <!--Organisation-->
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="/organisation" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Organizations
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
+
+                <li><a class="dropdown-item" href="/organisation">UFC</a></li>
+                <li><hr class="dropdown-divider"></li>
+                <li><a class="dropdown-item disabled" href="#">NFL</a></li>
+                <li><hr class="dropdown-divider"></li>
+                <li><a class="dropdown-item disabled" href="#">NBA</a></li>
+          </ul>
+        </li>
+
+        <!--BetZone-->
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="/eventdash">BetZone</a>
+        </li>
+
+      </ul>
+
+      <!--Search-->
+      <form class="col col-6 d-flex p-2">
+        <input class="col col-6 form-control me-2 rounded-pill" type="search" placeholder="Search" aria-label="Search">
+        <button class="col col-5 btn btn-primary btn-sm rounded-pill" type="submit">Search</button>
+      </form>
+     
+
+    </div>
+  </div>
+</nav>
