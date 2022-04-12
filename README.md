@@ -8,6 +8,6 @@
  
  Made in Hawaii, by the boys, for the boys.
  
-</h5>
+</h5> align="center">
 
 SSK4Life
