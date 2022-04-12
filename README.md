@@ -7,7 +7,5 @@
  <h5 align="center">
  
  Made in Hawaii, by the boys, for the boys.
- 
-</h5> align="center">
-
+ </h6> align="center"><weak>
 SSK4Life
