@@ -2,8 +2,8 @@
  
  Krew Coins
  
- <img src="https://i.imgur.com/IknznCr.jpg"
- width="175" height="175">
+ <img src="https://i.imgur.com/33EbOKI.png"
+width="128" height="128">
  
  </strong></h1>
 
