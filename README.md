@@ -13,5 +13,3 @@ width="128" height="128">
  <h6 align="center"><weak>
 
   SSK4Life
-
-  https://github.com/SupremeKai69/k/blob/9bdc278e0badcd6bd52b5bfd3dee6fd5288e7e3b/.well-known/stellar.toml
